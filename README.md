@@ -19,6 +19,9 @@ This interactive chatbot demonstrates how to build a conversational restaurant b
 - Persistent storage with SQLite database
 - Database download capability for Colab environment
 
+## 🗒️ Important Note
+- If you face a probelm with `ngrok`, please create an account first, then insert your your personal Authtoken
+
 ```
 # Import required libraries
 from pyngrok import ngrok
