@@ -1,6 +1,6 @@
 # 🍽️ Restaurant Booking Chatbot (Enhanced Edition)
 
-`Developed by Dr. Abdelaziz Triki`
+**`Developed by Dr. Abdelaziz Triki`**
 
 This interactive chatbot demonstrates how to build a conversational restaurant booking system with visual components and enhanced user experience.
 
