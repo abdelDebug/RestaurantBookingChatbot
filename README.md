@@ -1,5 +1,7 @@
 # 🍽️ Restaurant Booking Chatbot (Enhanced Edition)
 
+`Developed by Dr. Abdelaziz Triki`
+
 This interactive chatbot demonstrates how to build a conversational restaurant booking system with visual components and enhanced user experience.
 
 ## 🚀 Quick Start
@@ -17,6 +19,9 @@ This interactive chatbot demonstrates how to build a conversational restaurant b
 - Persistent storage with SQLite database
 - Database download capability for Colab environment
 
+```
+bash
 
+test
 
-  `Developed by Dr. Abdelaziz Triki`
+  
