@@ -16,3 +16,7 @@ This interactive chatbot demonstrates how to build a conversational restaurant b
 - Attractive reservation confirmation screen
 - Persistent storage with SQLite database
 - Database download capability for Colab environment
+
+
+
+  `Developed by Dr. Abdelaziz Triki`
