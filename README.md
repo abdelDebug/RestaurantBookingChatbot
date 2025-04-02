@@ -20,7 +20,7 @@ This interactive chatbot demonstrates how to build a conversational restaurant b
 - Database download capability for Colab environment
 
 ## 🗒️ Important Note
-- If you face a probelm with `ngrok`, please create an account first, then insert your your personal Authtoken
+- If you encounter a problem with `ngrok`, please create an account first and then insert your personal authtoken using `ngrok.set_auth_token("INSERT_YOUR_KEY_HERE")`.
 
 ```
 # Import required libraries
